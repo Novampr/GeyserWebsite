@@ -138,6 +138,11 @@ const config: Config = {
 
                             to: 'utilities/dump-viewer',
                             label: 'Dump Viewer',
+                        },
+                        {
+
+                            to: 'utilities/mapping-migrator',
+                            label: 'Mapping Migrator',
                         }
                     ]
                 },
